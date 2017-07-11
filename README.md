@@ -4,3 +4,8 @@ A sparse matrix is a matrix where a large number of the elements have a value of
 #To run this project
 javac *.java
 java user.java
+
+![Alt text](https://github.com/tejashreeKate/SparseMatrix-DataType/blob/master/assets/pic1.png "Snapshots")
+
+![Alt text](https://github.com/tejashreeKate/SparseMatrix-DataType/blob/master/assets/pic2.png "")
+
